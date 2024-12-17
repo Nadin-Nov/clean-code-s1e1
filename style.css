@@ -151,3 +151,7 @@
 .edit-mode .task-label {
   display: none;
 }
+
+.edit-mode .task {
+  text-decoration: none;
+}
